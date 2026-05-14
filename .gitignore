@@ -1,0 +1,9 @@
+data/glove/
+data/models/
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoint_page*.csv
+*.zip
+mahe_sdg_publications.csv
